@@ -69,7 +69,7 @@ if __name__ == "__main__":
             "A friendly AI career assistant with 3 services: "
             "Marketstack API for worldwide stock market, Job Tracker Semantic Search using own dataset, and LinkedIn MCP."
         ),
-        chatbot=gr.Chatbot(height=500, type="messages"),
+        chatbot=gr.Chatbot(height=500),
         textbox=gr.Textbox(
             placeholder="Ask me: Which jobs did I apply for? Find Project Manager jobs on LinkedIn. Show Apple stock price.",
             container=False,

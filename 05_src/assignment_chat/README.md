@@ -95,7 +95,7 @@ BROWSERBASE_CDP_URL
 
 ---
 
-## 🤖 GPT Integration
+## GPT Integration
 
 GPT is used to:
 
@@ -126,7 +126,7 @@ assignment_chat/
 │
 ├── chroma_job_tracker/
 │
-├── final_job_assistant3.py
+├── final_job_assistant.py
 ├── gradio_job_assistant.py
 ├── requirements.txt
 ├── .env
